@@ -8,8 +8,7 @@
   <li><b>Week 5/</b> – Graded Assignment</li>
   <li><b>Week 6/</b> – Graded Assignment</li>
   <li><b>Week 7/</b> – Graded Assignment</li>
-  <li><b>Week 8/</b> – Graded Assignment</li>
-  <li><b>Week 9/</b> – Graded Assignment</li>
+
   <li><b>Important_Questions</b> – Collection of key problems for exams & revision</li>
 </ul>
 
